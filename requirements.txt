@@ -1,5 +1,5 @@
 fastapi==0.61.0
 PyJWT==1.7.1
 appservicecore>=1.0.0
-abstraction==1.0.0
+abstractions==1.0.0
 Unidecode==1.2.0
